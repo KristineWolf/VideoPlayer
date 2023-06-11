@@ -1,2 +1,2 @@
 # VideoPlayer
-A small Android app to play a video
+A small Android app to watch a video
